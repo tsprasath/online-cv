@@ -42,9 +42,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Confident and skilled enough to work on DevOps Technologies. Eager to 
-      work in dynamic environment with a fast-paced organization. 
-      Looking to utilize my innovative thoughts for organizational benefit.
+      Overall 6+ years Specialized in DevOps, Infrastructure/ Task Automation, Build & Release, 
+      Containerizing Orchestration for application and Databases,Continuous Integration,
+        - Cloud provider: AWS,Azure and GCP
+        - Code Repository: SVN, GIT, BitBucket ,Acccurev
+        - Code Quality Tools: SonarQube, Jacoco, GerritTracker,Zipkin
+        - CI Tools: Cloubees Jenkins,Travis CI,VSTS,k8s
+        - Configuration Management Tools: Ansible, Terraform, chef,Cloud Formation
+        - Artifactory Management : JFrog, Nexus Repository Management.
+        - Application Security: Foritfy
 education:
     - degree: B.Tech in Information Technology
       College: VelTech Multitech Dr RR & SR Engg College,Avadi,Chennai
