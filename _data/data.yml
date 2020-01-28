@@ -26,13 +26,13 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Native
+    #    level: Native
 
       - idiom: Telugu
-        level: Native
+    #    level: Native
 
       - idiom: Tamil
-        level: Professional
+    #    level: Professional
 
     # interests:
     #   - item: Indoor games
@@ -48,6 +48,7 @@ career-profile:
         - Code Repository: SVN, GIT, BitBucket ,Acccurev
         - Code Quality Tools: SonarQube, Jacoco, GerritTracker,Zipkin
         - CI Tools: Cloubees Jenkins,Travis CI,VSTS,k8s
+        - Container Orchestration: Docker Swarm and Kubernetes
         - Configuration Management Tools: Ansible, Terraform, chef,Cloud Formation
         - Artifactory Management : JFrog, Nexus Repository Management.
         - Application Security: Foritfy
@@ -65,7 +66,7 @@ education:
       
     - degree: SSLC
       college: St Pauls Matriculation Higher Secondary School,Neyveli
-      university: 
+      university: HSC
       time: 2006 - 2007
 
 experiences:
@@ -110,29 +111,16 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Majorly working on Devops project in development and operation with 
+      Major companies like American Airlines and DXC Technology
     assignments:
-      - title: Velocity
+      - title: American Airlines
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Started Devops from scrath algined the developer to streamline the workflow"
 
-      - title: DevStudio
+      - title: DXC Technology
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Changed traditional application into monolithic(Microservices) using deployed in Container Orchestration using CICD"
 
 # publications:
 #     title: Publications
@@ -160,23 +148,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Azure,AWS & DGCP
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Docker & Kubernetes
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Jenkins,Github and Bitbucket
+        level: 90%
+
+      - name: Jfrog & Nexus
+        level: 95%
+
+      - name: Script automation
+        level: 75%
+
+      - name: Terraform
+        level: 50%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
