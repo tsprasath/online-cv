@@ -34,20 +34,17 @@ sidebar:
       - idiom: Tamil
         level: Professional
 
-    interests:
-      - item: Indoor games
-        link:
+    # interests:
+    #   - item: Indoor games
+    #     link:
 
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Confident and skilled enough to work on DevOps Technologies. Eager to 
+      work in dynamic environment with a fast-paced organization. 
+      Looking to utilize my innovative thoughts for organizational benefit.
 education:
     - degree: B.Tech in Information Technology
       College: VelTech Multitech Dr RR & SR Engg College,Avadi,Chennai
@@ -60,8 +57,9 @@ education:
       university: DOTE
       time: 2007 - 2010
       
-    - board: SSLC
-      school: St Pauls Matriculation Higher Secondary School,Neyveli
+    - degree: SSLC
+      college: St Pauls Matriculation Higher Secondary School,Neyveli
+      university: 
       time: 2006 - 2007
 
 experiences:
@@ -69,39 +67,40 @@ experiences:
       time: Jul 2018 - Present
       company:  Mphasis, Chennai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+          -	Develop various automation scripts that enable management of the Azure environment in an automated manner using terraform.
+          -	High levels of understanding and experience of Continuous Integration, Continuous Delivery (CI/CD), Agile and other DevOps related methodologies
+          -	Hands-on experience using .Net,Gradle,Maven, ANT and Go as build tool.
+          -	Jenkins and Declarative pipelines to drive all microservices builds out to the Azure container registry and then deployment to K8s cluster, Pods creation and managed services with K8s.
+          -	Hands-on experience in Azure App Service,Container Registry,VSTS,Storage,Secret Vault,WAF.
+          -	Micro services exposed through Kong API.
+
     - role: Devops Engineer
       time: Oct 2014 - Jul 2018
       company: NewtGlobal India Pvt Ltd,Chennai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Designing, implementing and supporting fully automated Continuous Integration and Continuous Delivery processes.
+          - Implemented a CI/CD pipeline involving GitHub, Jenkins, and Docker for complete automation from commit to deployment.
+          - Code security scan using HP fortify integrated through Jenkins.
+          - Hands-on experience using Maven, ANT and Gradle as build tool.
+          - Docker components like Docker Engine, Hub and Machine, Docker images, Compose, Docker Registry and multiple images.
+          - AWS EC2, Auto-Scaling in launching EC2 instances, Elastic Load Balancer, S3, Glacier, Cloud Front, RDS, VPC, Route53, Cloud Watch, Cloud Formation, IAM, SNS.
+          - K8s cluster and support on the top of the CoreOS
+          - Jenkins and Groovy pipelines to drive all microservices builds out to the Docker registry and then deployment to K8s cluster, Pods creation and managed services with K8s
+          - Build/Maintain Docker container clusters managed by K8s Linux, Bash, GIT, Docker, on GCP. Utilized K8s and docker for the runtime environment of the CI/CD system to build, test deploy.
+
     - role: IT Ops Admin
       time: May 2013 - 2 Aug 2014
       company: Alchemy Solution,Chennai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Implementation, administration, troubleshoot and replication of domain controller using Window Server 2003, 2008, 2012.
+          - Installed and administered various tools like Jenkins, Gitlab, Chef, and Artifactory and executed maintenance tasks such as creating users and groups.
+          - DevOps strategy in a mix environment of Linux (RHEL, Ubuntu) servers along with creating and a cloud strategy based on AWS.
+          - CI/CD pipeline involving Gitlab, Jenkins to complete the automation from commit to Deployment.
+          - Responsible for design and maintenance of the GIT Repositories and performed all necessary day-to-day GIT support for different projects.
+          - Created and Implemented branching & merging strategy with multiple branches.
+          - Periodic archiving and storage of the source code for DR setup.
+          - Automated build & release management process including monitoring changes between versions. 
+
 projects:
     title: Projects
     intro: >
