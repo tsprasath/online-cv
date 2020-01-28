@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Prasath Sivasubramaniyan
+    name: Prasath 
     tagline: Lead Devops Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -15,11 +15,11 @@ sidebar:
     email: tsprasath91@outlook.com
     phone: +91-9500173190
    # website: blog.webjeda.com #do not add http://
-    linkedin: tsprasath91
-    github: tsprasath91
+    linkedin: tsprasath
+    github: tsprasath
    # gitlab:
    # bitbucket:
-    twitter: '@tsprasath'
+   # twitter: '@tsprasath'
    # stack-overflow: # Number/Username, e.g. 123456/alandoe
    # codewars:
    # goodreads: # Number-Username, e.g. 123456-alandoe
@@ -55,15 +55,19 @@ education:
       time: 2010- 2013
       details: |
 
-    - degree: BSc in Applied Mathematics
+    - degree: Diploma in Information Technology
       college: Roever Polytechnic College,Permabalur
       university: DOTE
       time: 2007 - 2010
+      
+    - board: SSLC
+      school: St Pauls Matriculation Higher Secondary School,Neyveli
+      time: 2006 - 2007
 
 experiences:
     - role: Lead Devops Engineer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: Jul 2018 - Present
+      company:  Mphasis, Chennai
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -76,9 +80,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Devops Engineer
+      time: Oct 2014 - Jul 2018
+      company: NewtGlobal India Pvt Ltd,Chennai
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -87,9 +91,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: IT Ops Admin
+      time: May 2013 - 2 Aug 2014
+      company: Alchemy Solution,Chennai
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
