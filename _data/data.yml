@@ -106,11 +106,11 @@ projects:
     assignments:
       - title: American Airlines
         link: "#hook"
-        tagline: "Started Devops from scrath aligned the developer to streamline the workflow"
+        tagline: "Started Devops from scratch to streamline the development and  makes developer life easy"
 
       - title: DXC Technology
         link: "#"
-        tagline: "Changed traditional application into monolithic(Microservices) using deployed in Container Orchestration using CICD"
+        tagline: "Converted traditional application into monolithic(Microservices) deployed in Container Orchestration using CICD Process"
 
 # publications:
 #     title: Publications
