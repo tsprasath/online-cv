@@ -53,11 +53,13 @@ education:
       college: Roever Polytechnic College,Permabalur
       university: DOTE
       time: 2007 - 2010
-      
+
+
     - degree: SSLC
-      college: St Pauls Matriculation Higher Secondary School,Neyveli
+      college: St.Pauls Matriculation HSS,Neyveli
       university: HSC
       time: 2006 - 2007
+
 
 experiences:
     - role: Lead Devops Engineer
