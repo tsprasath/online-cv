@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Prasath Sivasubramaniyan
+    name: Prasath S
     tagline: Lead Devops Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -17,9 +17,9 @@ sidebar:
    # website: blog.webjeda.com #do not add http://
     linkedin: tsprasath
     github: tsprasath
-   # gitlab:
+    gitlab: tsprasath91
    # bitbucket:
-   # twitter: '@tsprasath'
+    twitter: '@tsprasath'
    # stack-overflow: # Number/Username, e.g. 123456/alandoe
    # codewars:
    # goodreads: # Number-Username, e.g. 123456-alandoe
