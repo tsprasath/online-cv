@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Prasath 
+    name: Prasath Sivasubramaniyan
     tagline: Lead Devops Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -96,7 +96,7 @@ experiences:
           - Build/Maintain Docker container clusters managed by K8s Linux, Bash, GIT, Docker, on GCP. Utilized K8s and docker for the runtime environment of the CI/CD system to build, test deploy.
 
     - role: IT Ops Admin
-      time: May 2013 - 2 Aug 2014
+      time: May 2013 - Aug 2014
       company: Alchemy Solution,Chennai
       details: |
           - Implementation, administration, troubleshoot and replication of domain controller using Window Server 2003, 2008, 2012.
@@ -116,7 +116,7 @@ projects:
     assignments:
       - title: American Airlines
         link: "#hook"
-        tagline: "Started Devops from scrath algined the developer to streamline the workflow"
+        tagline: "Started Devops from scrath aligned the developer to streamline the workflow"
 
       - title: DXC Technology
         link: "#"
