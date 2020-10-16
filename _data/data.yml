@@ -62,26 +62,27 @@ education:
 
 
 experiences:
-  - role: Senior Devops Engineer
-  time: Aug 2020 - Present
-  company:  NEURALRAYS AI (INDIA) PVT LTD Chennai
-  details: |
-      -	Develop various automation scripts that enable management of the Azure environment in an automated manner using terraform.
+    - role: Senior Devops Engineer
+      time: Aug 2020 - Present
+      company:  NEURALRAYS AI (INDIA) PVT LTD Chennai
+      details: |
+          -	Develop various automation scripts that enable management of the Azure environment in an automated manner using terraform.
 
 
-  - role: Devops Engineer
-  time: Mar 2020 - Jul 2020
-  company:  Auxo Technology Labs Private Limited, Chennai
-  details: |
-      - Automated application deployment in the cloud using Docker technology using Elastic Container Service.
-      -	Hands on experience in AWS provisioning and good knowledge of AWS services like EC2, S3, Glacier, ELB, RDS, Redshift, IAM, Route 53, VPC, Auto scaling, Cloud Front, Cloud Watch, ECR Cloud Trail, Cloud Formation, Security Groups.
-      -	Hands-on experience deploying and managing infrastructure with Terraform and Cloud Formation.
-      -	Skilled in monitoring servers using ELK Stack, Elastic Search.
-      -	Experience with Docker, GitLab, Jenkins, ELK and deploying applications on AWS
-      -	Build and maintain operational tools for deployment, monitoring, and analysis of AWS infrastructure and systems.
-      -	Perform infrastructure cost analysis and optimization.
-      -	Administer and troubleshoot Linux based systems.
-      -	Troubleshoot problems across a wide array of services and functional areas.
+    - role: Devops Engineer
+      time: Mar 2020 - Jul 2020
+      company:  Auxo Technology Labs Private Limited, Chennai
+      details: |
+          - Automated application deployment in the cloud using Docker technology using Elastic Container Service.
+          -	Hands on experience in AWS provisioning and good knowledge of AWS services like EC2, S3, Glacier, ELB, RDS, Redshift, IAM, Route 53, VPC, Auto scaling, Cloud Front, Cloud Watch, ECR Cloud Trail, Cloud Formation, Security Groups.
+          -	Hands-on experience deploying and managing infrastructure with Terraform and Cloud Formation.
+          -	Skilled in monitoring servers using ELK Stack, Elastic Search.
+          -	Experience with Docker, GitLab, Jenkins, ELK and deploying applications on AWS
+          -	Build and maintain operational tools for deployment, monitoring, and analysis of AWS infrastructure and systems.
+          -	Perform infrastructure cost analysis and optimization.
+          -	Administer and troubleshoot Linux based systems.
+          -	Troubleshoot problems across a wide array of services and functional areas.
+     
 
     - role: Lead Devops Engineer
       time: Jul 2018 - Mar 2020
